@@ -1,0 +1,6 @@
+name,value,category
+January,"400,00",Category A
+February,300,Category B
+March,"600.00",Category A
+April,800,Category B
+May,"invalid",Category A
